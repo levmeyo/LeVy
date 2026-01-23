@@ -1,9 +1,9 @@
 h1 {
-  color : red;
+  color: red;
   top-margin: 25pt;
 }
 .tuade {
-  color: tomato;
+  color: pink;
   font-family: Arial;
   top-margin: 20pt;
   font-size: 20pt;
@@ -13,7 +13,5 @@ h1 {
   color: black;
   top-margin: 6pt;
   font-size: 15pt;
-  font-style: normal;
+  font-style:normal;
 }
-  
-  
