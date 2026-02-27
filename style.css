@@ -1,9 +1,9 @@
 .container{
-  display: flex;
+  display:flex;
   flex-direction: column;
   height: 100vh;
 }
-.header{
+.header}
   flex: 15%;
   background-color: lightgray;
 }
@@ -16,7 +16,7 @@
   background-color: white;
 }
 .content iframe{
-  flex: 1%
+  flex: 1;
     border: none;
 .footer{
   flex: 10%;
