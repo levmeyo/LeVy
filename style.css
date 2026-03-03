@@ -6,7 +6,7 @@
 .header}
   flex: 15%;
   background-color: lightgray;
-  background url("images/banner.png") center;
+  background url("images/download.jpg") center;
 }
 .menu{
   flex: 5%;
