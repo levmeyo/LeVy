@@ -14,11 +14,11 @@
   background-color: darkgray;
   color: white;
   display: flex
-  
+  align-items:center;
 }
 .menu a{
-  padding: 15px ;
-  color: blue;
+  padding: 15px 20px ;
+  color:lightblue;
 }
 .menu a:hover{
   background-color: lightgray;
@@ -30,13 +30,14 @@
 }
 .content iframe{
   flex: 1;
-    border: none;
+  border: none;
+}
 .footer{
   flex: 10%;
   background-color: lightgray;
 }
 h1 {
-  color: red;
+  color: midnightblue;
   top-margin: 25pt;
 }
 .tuade {
