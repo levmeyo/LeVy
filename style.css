@@ -3,9 +3,8 @@
   flex-direction: column;
   height: 100vh;
 }
-.header}
+.header
   flex: 15%;
-  background-color: lightgray;
   background: url("images/a8a1790f-1a3d-4b2f-99d6-c94f8fff3bdc.png") center / 100%;
   aspect ratio: 6 / 1;
 }
