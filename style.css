@@ -5,22 +5,23 @@
 }
 .header{
   flex: 15%;
+  background-color: denim blue;
   background: url("images/#Cute_.jpg") center / 100%;
-  aspect-ratio: 6/1;
+  aspect-ratio: 6 / 1;
 }
 .menu{
   flex: 5%;
-  background-color: darkgray;
+  background-color: denim blue;
   color: white;
   display: flex;
-  align-items:center;
+  align-items: center;
 }
 .menu a{
-  padding: 15px 20px ;
-  color:lavender;
+  padding: 15px 20px;
+  color: lavender;
 }
 .menu a:hover{
-  background-color: lightgray;
+  background-color: denim blue;
   color: black;
 }
 .content{
@@ -33,7 +34,7 @@
 }
 .footer{
   flex: 10%;
-  background-color: lightgray;
+  background-color: denim blue;
 }
 h1 {
   color: lavender;
