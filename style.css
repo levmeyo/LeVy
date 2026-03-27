@@ -11,7 +11,7 @@
 }
 .menu{
   flex: 5%;
-  background-color: lightgray;
+  background-color: white;
   color: white;
   display: flex;
   align-items: center;
