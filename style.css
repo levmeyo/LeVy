@@ -6,7 +6,7 @@
 .header{
   flex: 15%;
   background-color: lightgray;
-  background: url("images/Cosmic girl✨️.jpeg") center / 100%;
+  background: url("images/☆.jpeg") center / 100%;
   aspect-ratio: 6 / 1;
 }
 .menu{
@@ -18,7 +18,7 @@
 }
 .menu a{
   padding: 15px 20px;
-  color: lavender;
+  color: purple;
 }
 .menu a:hover{
   background-color: lightgray;
