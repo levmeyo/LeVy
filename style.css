@@ -11,7 +11,7 @@
 }
 .menu{
   flex: 5%;
-  background-color: denim blue;
+  background-color: #F5F4F1;
   color: white;
   display: flex;
   align-items: center;
@@ -21,7 +21,7 @@
   color: lavender;
 }
 .menu a:hover{
-  background-color: denim blue;
+  background-color: #F5F4F1;
   color: black;
 }
 .content{
@@ -34,7 +34,7 @@
 }
 .footer{
   flex: 10%;
-  background-color: denim blue;
+  background-color: #F5F4F1;
 }
 h1 {
   color: lavender;
