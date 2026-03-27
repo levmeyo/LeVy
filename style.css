@@ -5,13 +5,13 @@
 }
 .header{
   flex: 15%;
-  background-color: white;
+  background-color: lightgray;
   background: url("images/banner.jpg") center / 100%;
   aspect-ratio: 6 / 1;
 }
 .menu{
   flex: 5%;
-  background-color: white;
+  background-color: darkgray;
   color: white;
   display: flex;
   align-items: center;
@@ -21,7 +21,7 @@
   color: lavender;
 }
 .menu a:hover{
-  background-color: white;
+  background-color: lightgray;
   color: black;
 }
 .content{
@@ -34,7 +34,7 @@
 }
 .footer{
   flex: 10%;
-  background-color: white;
+  background-color: lightgray;
 }
 h1 {
   color: lavender;
