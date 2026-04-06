@@ -2,15 +2,21 @@
    <h1 style="color: lavender; text-align : center;">  
             ĐĂNG KÍ THAM GIA HỘI THAO</h1>
   <body>
-    <form>
+    <form action="feedback.php"method="POST">
      <h2 style="color: lavender;"></h2>
       <label> Họ và tên: <input type= "text" name= "txtTen"></label><br>
       <label> Địa chỉ email: <input type= "email" name= "txtEmail"></label><br>
-    </form>
-     <h2 style="color: lavender;"></h2>
+      <input type="radio" name="opTime" value="s"> Lớp 10
+      <input type="radio" name="opTime" value="s"> Lớp 11
+      <input type="radio" name="opTime" value="s"> Lớp 12
+       
+     <h2 style="color: lavender;"> Tham dự môn: </h2>
      <input type= "checkbox" name= "chkBongBan"> Bóng bàn <br>
      <input type= "checkbox" name= "chkCauLong"> Cầu lông <br>
      <input type= "checkbox" name= "chkCoVua"> Cờ Vua <br>
-     <input type= "submit" name= "cmd" value= "Góp ý">
+       
+     <input type= "submit" name= "cmd" value= "Đăng kí">
+     <input type= "submit" name= "cmd" value= "Hủy bỏ">
+    </form>
   </body>
 </head>
